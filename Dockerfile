@@ -18,6 +18,7 @@ RUN \
 	openssl-dev \
 	patch \
 	py3-pip \
+	php7-ctype \
 	python3-dev && \
  echo "**** install runtime packages ****" && \
  apk add --no-cache --upgrade \
