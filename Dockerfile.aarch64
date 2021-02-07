@@ -34,6 +34,7 @@ RUN \
 	php7-cgi \
 	php7-curl \
 	php7-pear \
+	php7-ctype \
 	php7-zip \
 	procps \
 	py3-requests \
